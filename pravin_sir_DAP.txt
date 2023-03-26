@@ -1,0 +1,52 @@
+Pravin Sir File 
+
+
+EXP 5
+Reading file - 
+https://colab.research.google.com/drive/1_azqOSxG2K9raRV2-CQ22p9oLAB2-P28?usp=sharing
+
+Reading and Converting text file – 
+https://colab.research.google.com/drive/12XQXDK_3ha4j544oHii712yQdqdpue92?usp=sharing
+
+handling missing values: 
+https://colab.research.google.com/drive/1bwaBj1Rm_8V6Vx77fFm20mGOuuVjKLSb?usp=sharing
+
+Manipulating dataframe:
+https://colab.research.google.com/drive/14S_RSP35mxUx0GqQx5syoCNNk2ClP_Fl?usp=sharing
+
+Handling mismatched values:
+https://colab.research.google.com/drive/1Fg3V2W_zkCYskqwDzxKXUeb-B0xURcAU?usp=sharing
+
+EXP 6
+Groupby operation on pandas:
+https://colab.research.google.com/drive/1PZo7r1sf1uYLf9Dt9hfyKo_sQFEGlkGF?usp=sharing
+
+Data normalization using pandas:
+https://colab.research.google.com/drive/1Cp4v6aqgKYOCDZil6nkG68Id2o_BIO04?usp=sharing
+
+EXP 7
+Basics of NumPy: 
+https://colab.research.google.com/drive/1exWts1OVlt2NRFvhSRZWYe_9iRXLpBHx?usp=sharing
+
+Reading files from sklearn:
+https://colab.research.google.com/drive/1SY7FpBuj-ooSGTCSc4Do7JthsST0ObFo?usp=sharing
+
+Reading file from colab folder and data analysis:
+https://colab.research.google.com/drive/1GqgulGfTgnKZyEww0e0QyZw72Z45Ii8M?usp=sharing
+
+Reading file and Images:
+https://colab.research.google.com/drive/1dXqgqimg6VKFshihAoZb7YP9e-5nb-uX?usp=sharing
+
+
+
+STUDENT FILE 
+PRAC 5 
+https://colab.research.google.com/drive/13w5CCnMSpZKfsowE0Qu_qpxErDMrouef#scrollTo=foul9JerJRY6
+
+PRAC 6
+https://colab.research.google.com/drive/1dDuAIzHGz2y2_0_GBAORNBDPkKnIGeEh#scrollTo=nXD7JThnwlrG
+
+PRAC 7
+https://colab.research.google.com/drive/16cspxxJ-SFJ-oxZaosPhDMCnU8m_CgUp#scrollTo=_SycYsZwzfg0
+Task 2 is pending 
+
